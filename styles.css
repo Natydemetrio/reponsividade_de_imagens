@@ -1,0 +1,41 @@
+.grupo1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#tigre{
+    max-width: 100%;
+    width: 615px;
+}
+.grupo2 {
+    display: flex;
+    justify-content: center;
+   
+}
+
+img{
+    border-radius: 20px;
+}
+
+#lobo{
+    max-width: 50%;
+    width: 300px;
+   
+}
+#raposa{
+    margin-right: 20px;
+    max-width: 50%;
+    width: 300px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+/* @media (max-width: 900px) {
+    .grupo1 {
+      width: 90%;
+    }
+  } */
